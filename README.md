@@ -26,7 +26,7 @@ Url: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp
   - Matplotlib
   - Seaborn
 
-- **Interactive Visualizations with Plotly**
+- **Interactive Visualizations with Matplotlib & Seaborn**
 
 - **Machine Learning with SciKit-Learn**:
   - Linear Regression
