@@ -1,5 +1,6 @@
 # :avocado: Case Study #3: Foodie-Fi
 
-![Fandango Logo](Capstone-Project/fandango_logo.png)
+![Image Alt Text(Capstone-Project/fandango_logo.png)
 
 
+![Image Alt Text](relative/path/to/image.png)
